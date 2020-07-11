@@ -5,11 +5,11 @@ Environment Monitoring Station for observing different characteristics of a Soil
 WriteMultipleFields in ThingSpeak. Writes values to fields 1,2,3,4,5,6,7,8 in a single ThingSpeak update every 60 seconds.
 
 ## Hardware: 
-Arduino MKR WiFi 1010, Arduino MRK ENV, DS18B20.   
+Arduino MKR WiFi 1010, Arduino MRK ENV, DS18B20, INA219.   
   
 **!!! IMPORTANT - Modify the secrets.h file for this project with your network connection and ThingSpeak channel details. !!!**
   
-Note:
+**Note:**
 - Requires WiFiNINA library
 - This example is written for a network using WPA encryption. For WEP or WPA, change the WiFi.begin() call accordingly.
   
