@@ -15,7 +15,7 @@
   analyze live data streams in the cloud.
   
 */
-//#include <DHT.h>  // Including library for dht
+
 #include "ThingSpeak.h"
 #include <SPI.h>
 #include <WiFiNINA.h>
