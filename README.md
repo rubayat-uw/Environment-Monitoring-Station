@@ -14,3 +14,5 @@ Note:
   
 ThingSpeak ( https://www.thingspeak.com ) is an analytic IoT platform service that allows you to aggregate, visualize, and 
 analyze live data streams in the cloud.
+
+Live Channel Link for the Monitoring Station https://thingspeak.com/channels/860812 
