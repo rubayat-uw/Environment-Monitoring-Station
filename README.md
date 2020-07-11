@@ -1,7 +1,7 @@
 # Environment-Monitoring-Station
 Environment Monitoring Station for observing different characteristics of a Soil Cell
-#Description of the project
 
+Description of the project
 WriteMultipleFields in ThingSpeak
 Writes values to fields 1,2,3,4,5,6,7,8 and status in a single ThingSpeak update every 60 seconds.
 Hardware: Arduino MKR WiFi 1010, Arduino MRK ENV, DS18B20.   
